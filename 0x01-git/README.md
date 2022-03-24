@@ -1,2 +1,2 @@
-# This is a project on how to setup your git and github account
+# updated README file This is a project on how to setup your git and github account
 ### This include creating a file directory on your computer named *alx_pre_course* and the moving it to your github account respository named *alx_pre_course.git*
